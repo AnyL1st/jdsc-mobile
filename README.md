@@ -1,4 +1,5 @@
 # project-jdsc
+此项目为自学应用，借用黑马平台相关接口
 
 ## Project setup
 ```
